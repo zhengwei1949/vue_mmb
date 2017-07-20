@@ -1,0 +1,17 @@
+{
+  "name": "lolisugar",
+  "description": "lolisugar",
+  "authors": [
+    "trefoil <liivk@outlook.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
